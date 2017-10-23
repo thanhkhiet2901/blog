@@ -1,0 +1,2 @@
+# blog
+Leaning ruby
